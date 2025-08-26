@@ -1,5 +1,11 @@
 # 🚀 Linear Regression Project - 42 Málaga Artificial Intelligence League 🤖
 
+<li>
+  <a href="https://docs.google.com/presentation/d/10pHqg39hyys41gFoEZP5-FHtECXro0XpVAz0e8VJD9M/edit?usp=drive_link">Presentation</a> |
+  <a href="https://github.com/Ateibuzena/California_Housing_Prices">GitHub Repository</a> |
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7196571848011087872/">LinkedIn Post</a>
+</li>
+
 Welcome to the repository of the exciting linear regression project by the 42 Málaga Artificial Intelligence League! Here you'll find implementations of both simple and multiple linear regression, along with detailed explanations and code in notebooks.
 
 ## 📚 Notebooks
