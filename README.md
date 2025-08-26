@@ -5,7 +5,7 @@
   <a href="https://github.com/Ateibuzena/California_Housing_Prices">GitHub Repository</a> |
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7196571848011087872/">LinkedIn Post</a>
 </li>
-
+<br>
 Welcome to the repository of the exciting linear regression project by the 42 Málaga Artificial Intelligence League! Here you'll find implementations of both simple and multiple linear regression, along with detailed explanations and code in notebooks.
 
 ## 📚 Notebooks
